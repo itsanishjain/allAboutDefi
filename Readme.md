@@ -139,3 +139,7 @@ for Bob
 - balanceOf[user] +/-= amount [+ for staking, - for withdrawing]
 
 - totalSupply +/-= amount
+
+## Idea
+
+build a decentralised pateron where any one can support there favorite creator and earn rewards token for supporting them `seems cool na`
