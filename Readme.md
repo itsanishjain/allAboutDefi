@@ -120,7 +120,7 @@ for Bob
 
 > Calculate reward per token
 
-r += R/ totalSupply \*(currentTime - last update time)
+- r += R/ totalSupply \*(currentTime - last update time)
 
 > Calculate reward earned by user
 
