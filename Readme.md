@@ -1,4 +1,19 @@
-## Staking101
+## Staking
+
+#### what is staking:
+  - it is act of storing your crypto currencties in exchange of rewards.
+  - this acutally helps the system to be secure
+  - recent ETH is moving from POW to POS and this uses 99.95% less energy 
+  - in simple terms send tokens to `some wallet/contract` and earn rewards
+
+#### how staking generate revenue
+When you stake your crypto assets, you become a transaction validator, or node, for the network. This is very important to the network’s functionality and security, which is why stakers receive financial incentives to keep doing it.
+
+
+> src: https://www.coinbase.com/learn/crypto-basics/what-is-staking
+
+The reason your crypto earns rewards while staked is because the blockchain puts it to work. Cryptocurrencies that allow staking use a “consensus mechanism” called Proof of Stake, which is the way they ensure that all transactions are verified and secured without a bank or payment processor in the middle. Your crypto, if you choose to stake it, becomes part of that process. 
+
 
 - YT: https://www.youtube.com/watch?v=b7F9q9Jsfvw
 
@@ -51,7 +66,7 @@ i = 4 => 100/100 _ 1000 = 1000
 i = 5 = 100/100 \* 1000 = 1000
 = 3000 Rewards token
 
-## EX2
+## Staking rewards calculation `based on synthetix protocol`
 
 Alice stakes 100 for 4 sec, Bob stakss 200 for 5 sec. At Reaward rate/sec R
 
@@ -143,3 +158,19 @@ for Bob
 ## Idea
 
 build a decentralised pateron where any one can support there favorite creator and earn rewards token for supporting them `seems cool na`
+
+- ### How this works
+  - user come and stake [Matic] on a content creator 
+    - Learning Blockchain
+    - Learing defi
+    - creators for xyz
+
+  - these staks generates rewards token and protocol distributed these rewards token in %
+    - 70% goes to content creator
+      - #### Benifits
+        - getting rewards as this will get better as more and more use join his content
+        - more staking on a contet more rewards from everyone
+    - 30% goes to user who stakes 
+      - #### Benifits
+        - user consume the content and enjoy and learn form it
+        - also generate passive income by supporting the creator at same time getting value 
