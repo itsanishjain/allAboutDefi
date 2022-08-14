@@ -1,19 +1,19 @@
 ## Staking
 
 #### what is staking:
-  - it is act of storing your crypto currencties in exchange of rewards.
-  - this acutally helps the system to be secure
-  - recent ETH is moving from POW to POS and this uses 99.95% less energy 
-  - in simple terms send tokens to `some wallet/contract` and earn rewards
+
+- it is act of storing your crypto currencties in exchange of rewards.
+- this acutally helps the system to be secure
+- recent ETH is moving from POW to POS and this uses 99.95% less energy
+- in simple terms send tokens to `some wallet/contract` and earn rewards
 
 #### how staking generate revenue
-When you stake your crypto assets, you become a transaction validator, or node, for the network. This is very important to the network’s functionality and security, which is why stakers receive financial incentives to keep doing it.
 
+When you stake your crypto assets, you become a transaction validator, or node, for the network. This is very important to the network’s functionality and security, which is why stakers receive financial incentives to keep doing it.
 
 > src: https://www.coinbase.com/learn/crypto-basics/what-is-staking
 
-The reason your crypto earns rewards while staked is because the blockchain puts it to work. Cryptocurrencies that allow staking use a “consensus mechanism” called Proof of Stake, which is the way they ensure that all transactions are verified and secured without a bank or payment processor in the middle. Your crypto, if you choose to stake it, becomes part of that process. 
-
+The reason your crypto earns rewards while staked is because the blockchain puts it to work. Cryptocurrencies that allow staking use a “consensus mechanism” called Proof of Stake, which is the way they ensure that all transactions are verified and secured without a bank or payment processor in the middle. Your crypto, if you choose to stake it, becomes part of that process.
 
 - YT: https://www.youtube.com/watch?v=b7F9q9Jsfvw
 
@@ -160,7 +160,9 @@ for Bob
 build a decentralised pateron where any one can support there favorite creator and earn rewards token for supporting them `seems cool na`
 
 - ### How this works
-  - user come and stake [Matic] on a content creator 
+
+  - user come and stake [Matic] on a content creator
+
     - Learning Blockchain
     - Learing defi
     - creators for xyz
@@ -170,7 +172,53 @@ build a decentralised pateron where any one can support there favorite creator a
       - #### Benifits
         - getting rewards as this will get better as more and more use join his content
         - more staking on a contet more rewards from everyone
-    - 30% goes to user who stakes 
+    - 30% goes to user who stakes
       - #### Benifits
         - user consume the content and enjoy and learn form it
-        - also generate passive income by supporting the creator at same time getting value 
+        - also generate passive income by supporting the creator at same time getting value
+
+# what is synthetix assets?
+
+> Src: https://www.youtube.com/watch?v=vl4WRFo3hjg
+
+for exampele:
+cost of 1 kg gold is 50USD to to create synthetix gold [S]GOLD you need to put 100 USD to it is 100% collateralised so
+
+- if `price increase` of GOLD by 200 USD we need to 100USD to create [S]GOLD
+- similarly if `price decrease` by 50 USD we need to put 100 USD to creat S[GOLD]
+
+This is called over-collatralised `colat`
+
+This acutally solve 2 big problems in crypto space
+
+- no need to trust any one to "holds" for collatral because those are not acutal gold they are real time price of it
+- or not to need it which is expensive
+
+- ## what is synthetix protocol
+
+  - A protocol that generates synthextix assets on ETH, it can be any things GOLD,SILVE,BTC,ETH.
+  - So here we have SYX token and it higley colat so generally to create
+    - 1$ worth of syn assest we need to 7$ worth of SYX
+
+- ## Exmaple
+
+  - Alice put 700 SYX to get 10$ worth of GOLD where is 10$ = [1] GOLD
+  - Bob put 700 SYX to get 10$ worth of SILVER where is 5$ = [1] SILVER
+
+  so total money in the system is 20$ which is called the `the global debt pool`
+
+  ^ here both Alice and Bob contributed 50-50% each
+
+  so some how price of silver exploed to 10$ =
+
+  so as you can see gold is same 10$ and silver is 20$ so now bob hold 2 S[SILVER] his value is money is 20$
+
+  so total `the global debt pool` worth around 30$
+
+  but now ^ share of Bob > Alice
+
+  but still alice owns the 50% of `the global debt pool` 15$ but she put 10$ so now she owe `loss` 5$ to system
+
+  while Bob owns the 50% and he puts 10$ and now `the global debt pool` so he makes 5$ profits
+
+  so this is the heart of synthetix where 1 person profit is others loss and this is called `trading competition`
